@@ -1,5 +1,4 @@
-﻿# file: backend/video_processor.py
-import cv2
+﻿import cv2
 from PIL import Image
 
 def extract_frames(video_path, frame_rate=1):
